@@ -46,3 +46,38 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+
+/*BIOGRAFIAS*/
+
+.biography {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+    float: left;
+}
+
+.biography-text {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-top: 0;
+}
+
+.author-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+section{
+    width: 60%;
+}
